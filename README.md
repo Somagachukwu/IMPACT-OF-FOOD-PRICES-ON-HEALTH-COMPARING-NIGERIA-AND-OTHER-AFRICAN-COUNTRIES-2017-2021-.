@@ -1,3 +1,6 @@
+# IMPACT OF FOOD PRICES ON HEALTH: COMPARING NIGERIA AND OTHER AFRICAN COUNTRIES (2017–2021).
+
+![image.alt](https://github.com/Somagachukwu/IMPACT-OF-FOOD-PRICES-ON-HEALTH-COMPARING-NIGERIA-AND-OTHER-AFRICAN-COUNTRIES-2017-2021-./blob/main/Impact%20of%20health/IMPACT%20OF%20HEALTH.png)
 # Introduction
 ### The relationship between food prices and health is a critical and complex issue with far-reaching consequences for individuals, communities, and societies at large. Food prices directly influence dietary choices, food security, and ultimately the health outcomes of populations around the world. As prices of essential and nutritious foods increase, particularly in economically vulnerable regions, people are often forced to make dietary compromises, leading to inadequate intake of essential nutrients, increased reliance on cheaper, highly processed foods, and an elevated risk of both malnutrition and chronic health conditions.
 ### Rising food prices can push households, especially low-income ones, to prioritize quantity over quality, opting for calorie-dense but nutrient-poor foods, such as refined grains, sugary snacks, and fast food. This dietary shift is strongly linked to a rise in obesity, diabetes, cardiovascular diseases, and other diet-related illnesses. The affordability of fruits, vegetables, whole grains, and lean proteins is essential for maintaining a balanced diet, yet these items are often among the first to become inaccessible when food prices rise. Meanwhile, the fluctuating prices of staple foods, such as grains and dairy, can cause households to either reduce their consumption or turn to cheaper, less nutritious substitutes, worsening food insecurity and the risk of nutrient deficiencies.
@@ -29,6 +32,7 @@
 
 ## Creating Relationship Between Each Table and Creating a Dimension Table.
 ### With that done, the datasets were inspected, and a relationship was created among them to enable easy analysis. The relationship between each table was a many-to-one relationship. A dimension table was also created for each dataset for Nigeria’s focus country.
+![image.alt](https://github.com/Somagachukwu/IMPACT-OF-FOOD-PRICES-ON-HEALTH-COMPARING-NIGERIA-AND-OTHER-AFRICAN-COUNTRIES-2017-2021-./blob/main/Impact%20of%20health/impact%20of%20health%20modelling.png)
 
 ## Analysis
 ### After the modelling was done and all the necessary relationships established, the next stage is to start analysing the data and creating a beautiful dashboard that would show all key metrics and actionable insights that can easily be understood even by non-technical personnel.
@@ -39,15 +43,21 @@
 * Issue: The distinct count of the issues of the complaint.
 * Average cost of a healthy diet: The average cost of a healthy diet from 2017–2021 in Nigeria.
 * Total Percent of population able to afford a healthy diet: The total percentage of population able to afford a healthy diet in Nigeria.
+![image.alt](https://github.com/Somagachukwu/IMPACT-OF-FOOD-PRICES-ON-HEALTH-COMPARING-NIGERIA-AND-OTHER-AFRICAN-COUNTRIES-2017-2021-./blob/main/Impact%20of%20health/Impact%20of%20health%20pg%201.png)
+
 ### The second page displays a summary of the comparism between Nigeria, Ghana, Benin and Algeria
 * Total cost of a healthy diet: The total cost of a healthy diet across each country
 * Prevalence of under nourishment (%): The total percentage of under nourishment in the population across each country.
 * Country: The total number of countries analysed.
+![image.alt](https://github.com/Somagachukwu/IMPACT-OF-FOOD-PRICES-ON-HEALTH-COMPARING-NIGERIA-AND-OTHER-AFRICAN-COUNTRIES-2017-2021-./blob/main/Impact%20of%20health/Impact%20of%20health%20pg%202.png)
+
 ### The third is a continuation of the key metrics for the comparism such as:
 * Obesity Rate (%): Percentage total of obesity across the countries.
 * Hunger Prevalence: The total percent of the prevalence of hunger across the countries.
 * Malnutrition Rate: The total percent of malnutrition across the countries.
 * Diabetes Rate: shows the total percent of diabetes across the countries.
+![image.alt](https://github.com/Somagachukwu/IMPACT-OF-FOOD-PRICES-ON-HEALTH-COMPARING-NIGERIA-AND-OTHER-AFRICAN-COUNTRIES-2017-2021-./blob/main/Impact%20of%20health/Impact%20of%20health%20pg%203.png)
+
 ## Observation
 ### The analysis exposed quite a few things that should be addressed in order reduce cost of food prices.
 1. In Nigeria, 2021 had the highest cost of a healthy diet which was $4325 compared to 2017 with the least cost which was $3.625.
@@ -64,8 +74,7 @@
 12. Algeria recorded the highest rate of employment in both the industry and service sector across all years
 
 ## Recommendations
-Based on the above observations, here are my humble recommendations.
-
+Based on the above observations, here are my humble recommendations:
 1. Enhance Agricultural Productivity and Efficiency
 Invest in Agricultural Technology: Support the adoption of climate-resilient crops, improved irrigation systems, and sustainable farming practices to increase yields and reduce production costs.
 Subsidize Inputs: Provide subsidies for seeds, fertilizers, and equipment to lower costs for farmers and stabilize food prices.
